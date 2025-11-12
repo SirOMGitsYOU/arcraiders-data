@@ -11,16 +11,6 @@
   },
   {
     "trader": "Celeste",
-    "itemId": "fabric",
-    "quantity": 1,
-    "cost": {
-      "itemId": "assorted_seeds",
-      "quantity": 1
-    },
-    "dailyLimit": null
-  },
-  {
-    "trader": "Celeste",
     "itemId": "metal_parts",
     "quantity": 1,
     "cost": {
@@ -111,7 +101,7 @@
   },
   {
     "trader": "Celeste",
-    "itemId": "processors",
+    "itemId": "processor",
     "quantity": 1,
     "cost": {
       "itemId": "assorted_seeds",
@@ -221,7 +211,7 @@
   },
   {
     "trader": "Celeste",
-    "itemId": "magnets",
+    "itemId": "magnet",
     "quantity": 1,
     "cost": {
       "itemId": "assorted_seeds",
@@ -581,7 +571,7 @@
   },
   {
     "trader": "Apollo",
-    "itemId": "orange_light_stick",
+    "itemId": "red_light_stick",
     "quantity": 1,
     "cost": {
       "itemId": "coins",
